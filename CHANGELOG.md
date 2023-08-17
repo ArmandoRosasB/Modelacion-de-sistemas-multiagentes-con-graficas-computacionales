@@ -16,7 +16,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Actualización inicial de la escena (17/08/2022).
 - Creación de prefabs (17/08/2022).
 - Update North Prefab (17/08/2022).
-
+- Pull Request Requirements (17/08/2022).
 ### Fixed
 
 
